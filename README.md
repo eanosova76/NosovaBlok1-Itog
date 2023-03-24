@@ -8,5 +8,13 @@
 Вывод на экран (печать) результатов цикла
 Составление алгоритма выполняем в приложении draw.io
 Написание кода программы для реализации алгоритма
-
-
+Start
+Input Array ()
+ArrayLength
+Count=0
+For count<ArrayLength
+    If indexLength<3
+        pritn Index
+    else count=count+1
+Print Index
+End
