@@ -24,11 +24,13 @@ Input Array ()
 
 ArrayLength
 
+IndexLength
+
 Count=0
 
 For count<ArrayLength
                       
-    If indexLength<3
+    If IndexLength<3
     
         pritn Index
         
