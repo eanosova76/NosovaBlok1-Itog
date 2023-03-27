@@ -17,13 +17,23 @@ https://github.com/eanosova76/NosovaBlok1-Itog.git
 Изображение полученного алгоритма
 
 Написание кода программы для реализации алгоритма
+
 Start
+
 Input Array ()
+
 ArrayLength
+
 Count=0
+
 For count<ArrayLength
+                      
     If indexLength<3
+    
         pritn Index
+        
     else count=count+1
+    
 Print Index
+
 End
